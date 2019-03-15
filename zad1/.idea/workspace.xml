@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="zad1" targetName="zad1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01c3f1f3-810f-4ec9-b921-406bedf16ee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/LIBMODULE.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/LIBMODULE.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/LIBMODULE.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/LIBMODULE.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/LIBMODULE.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/LIBMODULE.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/pthread.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/pthread.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/pthread.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/pthread.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/pthread.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/pthread.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/client.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/zad2/client.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/CMakeFiles/zest10.dir/zad2/server.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zest10/cmake-build-debug/zest10.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../zest10/cmake-build-debug/zest10.cbp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/CMakeFiles/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="207" selection-start-line="207" selection-end-line="207" />
+              <folding>
+                <element signature="e#40#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>message_t</find>
+      <find>message</find>
+      <find>Failed</find>
+      <find>h</find>
+      <find>here</find>
+      <find>content</find>
+      <find>listen_on</find>
+      <find>Sleep</find>
+      <find>Thinkin</find>
+      <find>login</find>
+      <find>connect</find>
+      <find>connect(</find>
+      <find>listen_on_socket</find>
+      <find>Port:</find>
+      <find>send_login</find>
+      <find>Rebind</find>
+      <find>login_</find>
+      <find>malloc</find>
+      <find>Can</find>
+      <find>Cannot conn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>token_t</replace>
+      <replace>token</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/293eae26-874c-424c-b85f-73d54dee7f9a/console.sql" />
+        <option value="$PROJECT_DIR$/queue.c" />
+        <option value="$PROJECT_DIR$/list.c" />
+        <option value="$PROJECT_DIR$/list.h" />
+        <option value="$PROJECT_DIR$/client.h" />
+        <option value="$PROJECT_DIR$/client.c" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="6" />
+    <option name="width" value="1299" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zad1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zad1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="zad1" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="Name4 7890 127.0.0.1:5678 0 1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="zad1" TARGET_NAME="zad1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="zad1" RUN_TARGET_NAME="zad1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c3f1f3-810f-4ec9-b921-406bedf16ee5" name="Default Changelist" comment="" />
+      <created>1552333434110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552333434110</updated>
+      <workItem from="1552333435911" duration="11602000" />
+      <workItem from="1552421446313" duration="11701000" />
+      <workItem from="1552497303564" duration="5902000" />
+      <workItem from="1552504980648" duration="19093000" />
+      <workItem from="1552527627001" duration="8000" />
+      <workItem from="1552571322668" duration="438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48744000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="78" y="0" width="1288" height="768" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12199037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.17659353" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.22015505" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.21823205" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="Protocol == SOCK_STREAM" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>htons(addr-&gt;sin_addr)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>addr-&gt;sin_addr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>addr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inet_ntop(AF_INET, addr, buf)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inet_ntop(AF_INET, addr, buf, )</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inet_ntop(AF_INET, addr, &amp;buf, )</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>char* buf = malloc(sizeof(char)*200);
+inet_ntop(AF_INET, addr, &amp;buf, )</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>char buf[200];
+inet_ntop(AF_INET, addr, &amp;buf, NULL)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>Protocol == SOCK_STREAM</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>free(token)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>addr-&gt;sa_data</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>addr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sizeof(token_t)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Protocol == SOCK_STREAM) == 1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Protocol == SOCK_STREAM</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Protocol != SOCK_STREAM</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Protocol != SOCK_STREAM</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Protocol == SOCK_STREAM)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://293eae26-874c-424c-b85f-73d54dee7f9a/schema/information_schema/view/FILES" />
+    <entry file="das://293eae26-874c-424c-b85f-73d54dee7f9a/schema/information_schema/view/user_variables" />
+    <entry file="das://293eae26-874c-424c-b85f-73d54dee7f9a/schema/information_schema/view/VIEWS" />
+    <entry file="das://293eae26-874c-424c-b85f-73d54dee7f9a/schema/sakila/table/actor" />
+    <entry file="das://293eae26-874c-424c-b85f-73d54dee7f9a/schema/information_schema/view/USER_STATISTICS" />
+    <entry file="das://293eae26-874c-424c-b85f-73d54dee7f9a/schema/information_schema/view/EVENTS" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/293eae26-874c-424c-b85f-73d54dee7f9a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="102" selection-start-column="102" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/socket_type.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile" />
+    <entry file="file://$PROJECT_DIR$/main.c" />
+    <entry file="file:///usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue.h" />
+    <entry file="file://$PROJECT_DIR$/queue.c" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/netinet/in.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="e#40#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

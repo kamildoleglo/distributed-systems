@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/distributed-systems/zad1/client.c
+stdio.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+sys/un.h
+-
+string.h
+-
+zconf.h
+-
+signal.h
+-
+sys/epoll.h
+-
+errno.h
+-
+stdbool.h
+-
+time.h
+-
+pthread.h
+-
+client.h
+/home/kamil/CLionProjects/distributed-systems/zad1/client.h
+list.h
+/home/kamil/CLionProjects/distributed-systems/zad1/list.h
+
+/home/kamil/CLionProjects/distributed-systems/zad1/client.h
+arpa/inet.h
+-
+
+/home/kamil/CLionProjects/distributed-systems/zad1/list.h
+client.h
+/home/kamil/CLionProjects/distributed-systems/zad1/client.h
+
